@@ -141,33 +141,6 @@ _Note: It may take up to 24 hours for the [contrib.rocks](https://contrib.rocks/
 
 **P.S.** You'll also be recognized in a special "Contributors" section. We salute you! 👏
 
-## Creative Contributors
-
-Special recognition for individuals who have contributed to SQRL Budget Tracker in meaningful ways.
-
-### Contributors Wall:
-
-<div align="center">
-  <a href="https://github.com/RandilFdo">
-    <img src="https://github.com/RandilFdo.png" width="100px;" alt="Randil Fernando"/><br>
-    <strong>Randil Fernando</strong><br>
-    <small>Creator and lead developer of SQRL Budget Tracker. Implemented the voice input feature and continues active development.</small>
-  </a>
-</div>
-
-<br>
-
-<!-- Future contributors will be added here -->
-<!-- 
-<div align="center">
-  <a href="GITHUB_URL">
-    <img src="GITHUB_AVATAR_URL" width="100px;" alt="NAME"/><br>
-    <strong>USERNAME</strong><br>
-    <small>CONTRIBUTION_DESCRIPTION</small>
-  </a>
-</div>
--->
-
 ## 🙏 Acknowledgments
 
 This project is built upon the foundation of [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), an excellent open-source money manager. We're grateful to the original developers and contributors for their amazing work.
